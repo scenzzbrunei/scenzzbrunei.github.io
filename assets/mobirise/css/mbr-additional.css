@@ -2773,7 +2773,7 @@ body {
   background: transparent !important;
 }
 .cid-rrN2GcJRZT .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.4 !important;
 }
 .cid-rrN2GcJRZT .mbr-gallery-title {
   font-size: .9em;
@@ -2794,7 +2794,7 @@ body {
   z-index: -1;
   position: absolute;
   background: #c1c1c1 !important;
-  opacity: 0.7;
+  opacity: 0.4;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #c1c1c1, #45505b) !important;
