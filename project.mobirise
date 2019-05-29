@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "scent and more",
-    "currentPage": "product&services.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -954,7 +954,7 @@
               "text-align": "left"
             },
             "H2": {
-              "color": "#ff3366"
+              "color": "#19c175"
             }
           },
           "_name": "features11",
