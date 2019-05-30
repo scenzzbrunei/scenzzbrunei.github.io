@@ -2172,34 +2172,34 @@ body {
   color: #465052;
   text-align: left;
 }
-.cid-rrBqp1K5te {
-  padding-top: 105px;
-  padding-bottom: 105px;
+.cid-rrYrYYpHrq {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/blue-iphone-wallpaper-lock-screen-wallpaper-40465-1080x644.jpg");
 }
 @media (max-width: 767px) {
-  .cid-rrBqp1K5te .content {
+  .cid-rrYrYYpHrq .content {
     text-align: center;
   }
-  .cid-rrBqp1K5te .content > div:not(:last-child) {
+  .cid-rrYrYYpHrq .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
-.cid-rrBqp1K5te .map {
+.cid-rrYrYYpHrq .map {
   height: 18.75rem;
 }
 @media (max-width: 767px) {
-  .cid-rrBqp1K5te .footer-lower .copyright {
+  .cid-rrYrYYpHrq .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rrBqp1K5te .footer-lower hr {
+.cid-rrYrYYpHrq .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rrBqp1K5te .footer-lower .social-list {
+.cid-rrYrYYpHrq .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2209,37 +2209,37 @@ body {
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
 }
-.cid-rrBqp1K5te .footer-lower .social-list .mbr-iconfont-social {
+.cid-rrYrYYpHrq .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rrBqp1K5te .footer-lower .social-list .soc-item {
+.cid-rrYrYYpHrq .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rrBqp1K5te .footer-lower .social-list a {
+.cid-rrYrYYpHrq .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rrBqp1K5te .footer-lower .social-list a:hover {
+.cid-rrYrYYpHrq .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rrBqp1K5te .footer-lower .social-list {
+  .cid-rrYrYYpHrq .footer-lower .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
 }
-.cid-rrBqp1K5te .google-map {
+.cid-rrYrYYpHrq .google-map {
   height: 25rem;
   position: relative;
 }
-.cid-rrBqp1K5te .google-map iframe {
+.cid-rrYrYYpHrq .google-map iframe {
   height: 100%;
   width: 100%;
 }
-.cid-rrBqp1K5te .google-map [data-state-details] {
+.cid-rrYrYYpHrq .google-map [data-state-details] {
   color: #6b6763;
   font-family: Montserrat;
   height: 1.5em;
@@ -2251,13 +2251,13 @@ body {
   top: 50%;
   width: 100%;
 }
-.cid-rrBqp1K5te .google-map[data-state] {
+.cid-rrYrYYpHrq .google-map[data-state] {
   background: #e9e5dc;
 }
-.cid-rrBqp1K5te .google-map[data-state="loading"] [data-state-details] {
+.cid-rrYrYYpHrq .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-rrBqp1K5te .copyright > p {
+.cid-rrYrYYpHrq .copyright > p {
   text-align: center;
 }
 .cid-rrGRBlpvg8 {
@@ -4148,53 +4148,42 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-rrXYjV21Tt {
+.cid-rrYjx5UBUV {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rrXYjV21Tt h2 {
-  margin-bottom: 0;
-}
-.cid-rrXYjV21Tt h4 {
+.cid-rrYjx5UBUV h4 {
   font-weight: 500;
   margin-bottom: 0;
-  width: 80%;
+  text-align: left;
+  padding-top: 2rem;
 }
-.cid-rrXYjV21Tt p {
-  color: #767676;
+.cid-rrYjx5UBUV p {
   margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
 }
-.cid-rrXYjV21Tt .card-wrapper {
-  border-top: 1px solid #c1c1c1;
-  background-color: #ffffff;
-  position: relative;
-  justify-content: unset;
+.cid-rrYjx5UBUV .mbr-section-btn {
+  padding-top: 2.5rem;
 }
-.cid-rrXYjV21Tt .card-wrapper .card-box {
-  padding: 2rem 1rem;
-  width: 100%;
+.cid-rrYjx5UBUV .mbr-section-btn a {
+  margin: 0;
 }
-.cid-rrXYjV21Tt .card-wrapper .card-box .top-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.cid-rrYjx5UBUV .mbr-text {
+  color: #767676;
 }
-.cid-rrXYjV21Tt .card-wrapper .card-box .bottom-line {
-  width: 70%;
+.cid-rrYjx5UBUV .card-wrapper {
+  height: 100%;
 }
 @media (max-width: 767px) {
-  .cid-rrXYjV21Tt .card-wrapper .card-box .bottom-line {
-    width: 100%;
-  }
-  .cid-rrXYjV21Tt .card-wrapper .card-box .bottom-line p {
-    text-align: center;
-    margin: 1rem 0 0 0;
+  .cid-rrYjx5UBUV .card:not(.last-child) {
+    padding-bottom: 2rem;
   }
 }
-.cid-rrXYjV21Tt H2 {
+.cid-rrYjx5UBUV H2 {
   color: #19c175;
 }
-.cid-rrXYjV21Tt .mbr-section-subtitle {
-  color: #727272;
+.cid-rrYjx5UBUV .mbr-section-subtitle {
+  color: #767676;
 }
