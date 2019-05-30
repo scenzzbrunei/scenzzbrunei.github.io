@@ -44,10 +44,10 @@ body {
 }
 .display-5 {
   font-family: 'Raleway', sans-serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 2.4rem;
 }
 .display-7 {
   font-family: 'Titillium Web', sans-serif;
@@ -78,9 +78,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.2rem;
+    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -3258,7 +3258,7 @@ body {
   margin-bottom: 0;
 }
 .cid-rrXW0I2Z8Q .card-wrapper {
-  border-top: 1px solid #efefef;
+  border-top: 1px solid #c1c1c1;
   background-color: #ffffff;
   position: relative;
   justify-content: unset;
@@ -3712,7 +3712,7 @@ body {
   margin-bottom: 0;
 }
 .cid-rrXYcW7mmm .card-wrapper {
-  border-top: 1px solid #efefef;
+  border-top: 1px solid #c1c1c1;
   background-color: #ffffff;
   position: relative;
   justify-content: unset;
@@ -4166,7 +4166,7 @@ body {
   margin-bottom: 0;
 }
 .cid-rrXYjV21Tt .card-wrapper {
-  border-top: 1px solid #efefef;
+  border-top: 1px solid #c1c1c1;
   background-color: #ffffff;
   position: relative;
   justify-content: unset;
