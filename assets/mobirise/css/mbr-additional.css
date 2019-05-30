@@ -2175,7 +2175,7 @@ body {
 .cid-rrYrYYpHrq {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/blue-iphone-wallpaper-lock-screen-wallpaper-40465-1080x644.jpg");
+  background-color: #465052;
 }
 @media (max-width: 767px) {
   .cid-rrYrYYpHrq .content {
@@ -2259,11 +2259,6 @@ body {
 }
 .cid-rrYrYYpHrq .copyright > p {
   text-align: center;
-}
-.cid-rrGRBlpvg8 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
 }
 .cid-rrGRIgacDg .navbar {
   padding: .5rem 0;
