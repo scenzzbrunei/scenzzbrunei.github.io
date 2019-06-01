@@ -18,17 +18,17 @@ body {
 }
 .display-1 {
   font-family: 'Roboto', sans-serif;
-  font-size: 3.6rem;
+  font-size: 5rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.76rem;
+  font-size: 8rem;
 }
 .display-2 {
   font-family: 'Roboto', sans-serif;
-  font-size: 3rem;
+  font-size: 2.2rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 3.52rem;
 }
 .display-4 {
   font-family: 'Helvetica-Light';
@@ -58,14 +58,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.88rem;
-    font-size: calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4rem;
+    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.76rem;
+    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 1.04rem;
@@ -138,7 +138,7 @@ body {
   background-color: #ffffff !important;
 }
 .bg-warning {
-  background-color: #cccccc !important;
+  background-color: #efefef !important;
 }
 .bg-danger {
   background-color: #c1c1c1 !important;
@@ -225,23 +225,23 @@ body {
 }
 .btn-warning,
 .btn-warning:active {
-  background-color: #cccccc !important;
-  border-color: #cccccc !important;
-  color: #4d4d4d !important;
+  background-color: #efefef !important;
+  border-color: #efefef !important;
+  color: #707070 !important;
 }
 .btn-warning:hover,
 .btn-warning:focus,
 .btn-warning.focus,
 .btn-warning.active {
-  color: #4d4d4d !important;
-  background-color: #a6a6a6 !important;
-  border-color: #a6a6a6 !important;
+  color: #707070 !important;
+  background-color: #c9c9c9 !important;
+  border-color: #c9c9c9 !important;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
-  color: #4d4d4d !important;
-  background-color: #a6a6a6 !important;
-  border-color: #a6a6a6 !important;
+  color: #707070 !important;
+  background-color: #c9c9c9 !important;
+  border-color: #c9c9c9 !important;
 }
 .btn-danger,
 .btn-danger:active {
@@ -389,22 +389,22 @@ body {
 .btn-warning-outline,
 .btn-warning-outline:active {
   background: none;
-  border-color: #999999;
-  color: #999999;
+  border-color: #bcbcbc;
+  color: #bcbcbc;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
 .btn-warning-outline.focus,
 .btn-warning-outline.active {
-  color: #4d4d4d;
-  background-color: #cccccc;
-  border-color: #cccccc;
+  color: #707070;
+  background-color: #efefef;
+  border-color: #efefef;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
-  color: #4d4d4d !important;
-  background-color: #cccccc !important;
-  border-color: #cccccc !important;
+  color: #707070 !important;
+  background-color: #efefef !important;
+  border-color: #efefef !important;
 }
 .btn-danger-outline,
 .btn-danger-outline:active {
@@ -473,7 +473,7 @@ body {
   color: #ffffff !important;
 }
 .text-warning {
-  color: #cccccc !important;
+  color: #efefef !important;
 }
 .text-danger {
   color: #c1c1c1 !important;
@@ -502,7 +502,7 @@ a.text-info:focus {
 }
 a.text-warning:hover,
 a.text-warning:focus {
-  color: #999999 !important;
+  color: #bcbcbc !important;
 }
 a.text-danger:hover,
 a.text-danger:focus {
@@ -523,7 +523,7 @@ a.text-black:focus {
   background-color: #ffffff;
 }
 .alert-warning {
-  background-color: #cccccc;
+  background-color: #efefef;
 }
 .alert-danger {
   background-color: #c1c1c1;
@@ -1570,7 +1570,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rrGRIgacDg .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.2rem);
+    max-height: calc(98.5vh - 4.8rem);
   }
 }
 .cid-rrGRIgacDg .collapsed button.navbar-toggler {
