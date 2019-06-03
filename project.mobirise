@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-06-03_2351",
+    "name": "scenzz",
     "currentPage": "page1.html",
     "theme": {
       "name": "purity",
@@ -13,7 +13,16 @@
     "siteFonts": [],
     "uniqCompNum": 25,
     "versionPublish": "4.10.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/scenzz-logo-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
