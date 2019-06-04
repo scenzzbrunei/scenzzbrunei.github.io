@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "scenzz",
-    "currentPage": "page2.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 48,
+    "uniqCompNum": 51,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -284,7 +284,7 @@
     "page1.html": {
       "settings": {
         "title": "shop",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -538,7 +538,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "Page 2",
+        "title": "contact",
         "order": 1
       },
       "components": [
@@ -688,7 +688,7 @@
     "page3.html": {
       "settings": {
         "title": "diffuser",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -942,7 +942,7 @@
     "page4.html": {
       "settings": {
         "title": "fragrance",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1048,7 +1048,7 @@
     "page5.html": {
       "settings": {
         "title": "essential",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
