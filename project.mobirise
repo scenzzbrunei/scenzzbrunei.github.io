@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "scenzz",
-    "currentPage": "page5.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -612,7 +612,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Contact Form",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Submit</a>",
           "form": {
             "action": "johnbernard80@gmail.com",
             "alerts": {
