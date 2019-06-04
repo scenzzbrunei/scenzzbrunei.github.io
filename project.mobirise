@@ -1,19 +1,20 @@
 {
   "settings": {
     "name": "scenzz",
-    "currentPage": "page3.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {},
       "additionalSetColors": [
-        "#00ff6b"
+        "#00ff6b",
+        "#6da802"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 44,
+    "uniqCompNum": 48,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -691,6 +692,49 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#6da802",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SCENT DIFFUSER",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><a href=\"page4.html\" class=\"text-black\">Fragrance Oil</a> | <a href=\"page5.html\" class=\"text-black\">Essential Oil</a> | <a href=\"#top\" class=\"text-black\">Scent Diffuser</a></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See All Templates</a>  ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-19"
+        },
+        {
           "_inherit": "header1",
           "_params": {
             "showTitle": true,
@@ -712,7 +756,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SX",
-          "text": "The HVAC Diffuser is designed for very large areas where there is a air conditioning system and it requires a minimal installation<br>Coverage: 1600 m2<br>",
+          "text": "The HVAC Diffuser is designed for very large areas where there is a air conditioning system and it requires a minimal installation with large amount of oil capacity.<br>Coverage: 1600 m2<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-cart-add mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>$900</a>",
           "alias": "purity/components",
           "_tags": [
@@ -804,7 +848,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SL",
-          "text": "The HVAC Diffuser is designed for medium to large areas where there is a air conditioning system and it requires a minimal installation<br>Coverage: 1500&nbsp;m2<br>",
+          "text": "The HVAC Diffuser is designed for medium to large areas where there is a air conditioning system and it requires a minimal installation<br>Coverage: 1400&nbsp;m2<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-cart-add mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>$430</a>",
           "alias": "purity/components",
           "_tags": [
@@ -955,6 +999,49 @@
           ],
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-n"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#6da802",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FRAGRANCE OIL",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><a href=\"page4.html\" class=\"text-black\">Fragrance Oil</a> | <a href=\"page5.html\" class=\"text-black\">Essential Oil</a> | <a href=\"#top\" class=\"text-black\">Scent Diffuser</a></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See All Templates</a>  ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1a"
         }
       ]
     },
@@ -1018,6 +1105,49 @@
           ],
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-o"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#6da802",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ESSENTIAL OIL",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><a href=\"page4.html\" class=\"text-black\">Fragrance Oil</a> | <a href=\"page5.html\" class=\"text-black\">Essential Oil</a> | <a href=\"#top\" class=\"text-black\">Scent Diffuser</a></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See All Templates</a>  ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1b"
         }
       ]
     }

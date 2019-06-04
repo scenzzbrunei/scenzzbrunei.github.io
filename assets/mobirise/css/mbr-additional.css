@@ -119,6 +119,15 @@
 
 
 
+#msg-box3-19 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-19 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-19 .btn {
+  font-size: 12px;
+}
 #header2-u .btn {
   font-family: 'Roboto', sans-serif;
 }
@@ -180,6 +189,15 @@
 #dropdown-menu-n .navbar-toggler {
   color: #000000;
 }
+#msg-box3-1a .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1a .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1a .btn {
+  font-size: 12px;
+}
 
 #dropdown-menu-o .hide-buttons [data-button] {
   display: none !important;
@@ -204,4 +222,13 @@
 }
 #dropdown-menu-o .navbar-toggler {
   color: #000000;
+}
+#msg-box3-1b .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1b .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1b .btn {
+  font-size: 12px;
 }
