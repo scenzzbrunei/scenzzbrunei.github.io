@@ -198,6 +198,10 @@
 #msg-box3-1a .btn {
   font-size: 12px;
 }
+#features1-1h P {
+  text-align: center;
+  font-size: 14px;
+}
 
 #dropdown-menu-o .hide-buttons [data-button] {
   display: none !important;
