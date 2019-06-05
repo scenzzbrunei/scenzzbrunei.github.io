@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "scenzz",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -97,7 +97,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
