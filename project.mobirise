@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "scenzz",
-    "currentPage": "page5.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -67,13 +67,13 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -316,13 +316,13 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -388,7 +388,7 @@
             }
           },
           "title": "Diffusers",
-          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
+          "text": "<p>HVAC scenting uses cold-air diffusion technology to provide powerful, even and efficient scenting solutions.&nbsp;</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -571,13 +571,13 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -800,13 +800,13 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -974,13 +974,13 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1080,13 +1080,13 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
           "logo": {
             "image": {
               "active": true,
