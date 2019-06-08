@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 56,
+    "uniqCompNum": 60,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -73,7 +73,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -322,7 +322,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -403,6 +403,9 @@
             },
             ".lead P": {
               "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "13px"
             }
           }
         },
@@ -466,6 +469,9 @@
             },
             ".lead P": {
               "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "13px"
             }
           },
           "_anchor": "msg-box4-k"
@@ -530,6 +536,9 @@
             },
             ".lead P": {
               "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "13px"
             }
           },
           "_anchor": "msg-box4-l"
@@ -577,7 +586,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -757,7 +766,7 @@
           },
           "title": "SX",
           "text": "The HVAC Diffuser is designed for very large areas where there is a air conditioning system and it requires a minimal installation with large amount of oil capacity.<br>Coverage: 1600 m2<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-cart-add mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>$800</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-cart-add mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>$750</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -806,7 +815,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -980,7 +989,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1264,6 +1273,15 @@
             }
           },
           "_anchor": "features1-1j"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">more fragrance..</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1n"
         }
       ]
     },
@@ -1308,7 +1326,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-h\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Product</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Shop</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Scent Diffuser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Frangrance Oils</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Essential Oils</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#form1-e\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Shop</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1362,7 +1380,7 @@
           },
           "title": "ESSENTIAL OIL",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><a href=\"page4.html\" class=\"text-black\">Fragrance Oil</a> | <a href=\"page5.html\" class=\"text-black\">Essential Oil</a> | <a href=\"#top\" class=\"text-black\">Scent Diffuser</a></p>",
+          "text": "<p><a href=\"page4.html#msg-box3-1a\" class=\"text-black\">Fragrance Oil</a> | <a href=\"page5.html\" class=\"text-black\">Essential Oil</a> | <a href=\"page3.html#msg-box3-19\" class=\"text-black\">Scent Diffuser</a></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See All Templates</a>  ",
           "alias": "purity/components",
           "_tags": [
@@ -1370,6 +1388,228 @@
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-1b"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ttree-1-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lavender-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/citronella-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/peppermint-600x371.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Tea Tree",
+          "caption1": "Melaleuca alternifolia",
+          "title2": "French Lavander",
+          "caption2": "Lavandula stoechas",
+          "title3": "Citronella",
+          "caption3": "Cymbopogon winterianus&nbsp;<br>",
+          "title4": "Pepermint",
+          "caption4": "Mentha × piperita<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "features1-1k"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ylangylng-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lemon-oil-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cinnamon-600x333.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/eucalyptus-globulus-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Ylang Ylang",
+          "caption1": "Cananga odorata",
+          "title2": "Lemon Oil",
+          "caption2": "Citrus × limon",
+          "title3": "Cinnamon",
+          "caption3": "Cinnamomum verum",
+          "title4": "Eucalyptus",
+          "caption4": "caption",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "features1-1l"
         }
       ]
     }

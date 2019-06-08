@@ -71,17 +71,26 @@
 #msg-box4-i .lead P {
   text-align: center;
 }
+#msg-box4-i .btn {
+  font-size: 13px;
+}
 #msg-box4-k .mbr-section-title {
   text-align: center;
 }
 #msg-box4-k .lead P {
   text-align: center;
 }
+#msg-box4-k .btn {
+  font-size: 13px;
+}
 #msg-box4-l .mbr-section-title {
   text-align: center;
 }
 #msg-box4-l .lead P {
   text-align: center;
+}
+#msg-box4-l .btn {
+  font-size: 13px;
 }
 
 #dropdown-menu-c .hide-buttons [data-button] {
@@ -239,4 +248,12 @@
 }
 #msg-box3-1b .btn {
   font-size: 12px;
+}
+#features1-1k P {
+  text-align: center;
+  font-size: 14px;
+}
+#features1-1l P {
+  text-align: center;
+  font-size: 14px;
 }
