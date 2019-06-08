@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "scenzz",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1413,7 +1413,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ttree-1-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ttree-2-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1429,7 +1429,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/lavender-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lavender-1-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1445,7 +1445,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/citronella-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/citronella-1-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1461,7 +1461,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/peppermint-600x371.jpg",
+              "src": "@PROJECT_PATH@/assets/images/peppermint-1-600x371.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
