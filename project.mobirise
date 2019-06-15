@@ -120,41 +120,6 @@
           "_anchor": "header1-1x"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/branch-conifer-5-1440x1126.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff8e0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#35ae35",
-            "overlayOpacity": 0.5
-          },
-          "title": "Scent and aroma marketing may be the most powerful next-gen tool of influence.",
-          "text": "Smell. Isn’t it amazing how a dash of invisible scent molecules is able to transport you right back into a childhood visit to your grandparents? Or how the delicious aroma of freshly baked bread seems to lure you into that little bakery around the corner. And everyone recognizes that typical smell emanating from the roasted coffee bean.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            "H1": {
-              "font-size": "48px"
-            }
-          },
-          "_anchor": "header1-1w"
-        },
-        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
