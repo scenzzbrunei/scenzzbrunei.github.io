@@ -106,7 +106,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blue-iphone-wallpaper-lock-screen-wallpaper-40465-1080x644.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/branch-conifer-4-1440x960.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -114,9 +114,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#dddddd",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0"
           },
           "title": "Scent and aroma marketing may be the most powerful next-gen tool of influence.",
           "text": "Smell. Isn’t it amazing how a dash of invisible scent molecules is able to transport you right back into a childhood visit to your grandparents? Or how the delicious aroma of freshly baked bread seems to lure you into that little bakery around the corner. And everyone recognizes that typical smell emanating from the roasted coffee bean.",
