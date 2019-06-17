@@ -23,7 +23,16 @@
     "favicon": "@PROJECT_PATH@/assets/images/scenzz-logo-128x128.png",
     "noImageResize": "",
     "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "google-analytics": ""
+    "google-analytics": "",
+    "customCookies": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    }
   },
   "pages": {
     "index.html": {
@@ -97,7 +106,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/branch-conifer-3-1440x960.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/header1-1000x667.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -105,8 +114,8 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#dddddd",
             "overlayOpacity": 0.5
           },
           "title": "Scent and aroma marketing may be the most powerful next-gen tool of influence.",
