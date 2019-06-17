@@ -106,7 +106,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/branch-conifer-4-1440x960.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/branch-conifer-3-982x768.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
