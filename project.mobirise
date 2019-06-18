@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Scenzz",
-    "currentPage": "page5.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1332,7 +1332,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feuille-et-feuillage-283-450x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/feuille-et-feuillage-284-450x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1364,7 +1364,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/melon-2-600x459.jpg",
+              "src": "@PROJECT_PATH@/assets/images/melon-3-600x459.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1666,7 +1666,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/peppermint-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/peppermint-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
