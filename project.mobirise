@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Scenzz",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -981,7 +981,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/5-a-1-2000x918.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/5-a-2-2000x918.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1316,7 +1316,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fall-photo-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/after-summer-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
