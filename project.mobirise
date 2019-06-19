@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Scenzz",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 70,
+    "uniqCompNum": 71,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -981,7 +981,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/5-a-2-2000x918.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/5-a-4-2000x918.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -994,20 +994,20 @@
             "overlayOpacity": 0.5
           },
           "title": "SX",
-          "text": "The HVAC Diffuser is designed for very large areas where there is a air conditioning system and it requires a minimal installation<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Ask for a Qoute</a>",
+          "text": "The HVAC Diffuser is designed for very large areas where there is a air conditioning system and it requires a minimal installation",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ask for a Qoute</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
+          "_anchor": "header2-1y",
           "_styles": {
             ".btn": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
-          },
-          "_anchor": "header2-p"
+          }
         },
         {
           "_inherit": "header1",
