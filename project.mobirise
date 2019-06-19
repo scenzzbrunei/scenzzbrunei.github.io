@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Scenzz",
-    "currentPage": "page6.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -981,7 +981,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/5-3-2000x666.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/5-a-1-2000x918.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1364,7 +1364,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/melon-3-600x459.jpg",
+              "src": "@PROJECT_PATH@/assets/images/melon-600x459.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
