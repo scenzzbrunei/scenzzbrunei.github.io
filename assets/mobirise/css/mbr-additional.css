@@ -151,6 +151,15 @@
 #dropdown-menu-l A {
   font-size: 20px;
 }
+#msg-box3-1z .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1z .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1z .btn {
+  font-size: 12px;
+}
 #header2-1y .btn {
   font-family: 'Playfair Display', sans-serif;
 }
@@ -186,6 +195,15 @@
 #dropdown-menu-m A {
   font-size: 20px;
 }
+#msg-box3-20 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-20 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-20 .btn {
+  font-size: 12px;
+}
 #features1-u P {
   text-align: center;
   font-size: 14px;
@@ -216,6 +234,15 @@
 }
 #dropdown-menu-n A {
   font-size: 20px;
+}
+#msg-box3-21 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-21 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-21 .btn {
+  font-size: 12px;
 }
 #features1-12 P {
   text-align: center;
