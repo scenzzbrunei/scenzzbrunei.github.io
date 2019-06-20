@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Scenzz",
-    "currentPage": "page4.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1038,7 +1038,7 @@
           },
           "title": "SX",
           "text": "The HVAC Diffuser is designed for very large areas where there is a air conditioning system and it requires a minimal installation",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ask for a Qoute</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page7.html#form1-16\" data-toolbar=\"-mbrBtnMove\">Ask for a Qoute</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1075,7 +1075,7 @@
           },
           "title": "SL",
           "text": "The HVAC Diffuser is designed for medium to large areas where there is a air conditioning system and it requires a minimal installation<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">Ask for a Qoute</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page8.html#form1-19\" data-toolbar=\"-mbrBtnMove\">Ask for a Qoute</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1112,7 +1112,7 @@
           },
           "title": "SM",
           "text": "Portable, sleek and compact, this model offers multiple fragrance concentration levels and is the perfect addition to any decor. Good for Home and offices with a style.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">Ask for a Qoute</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page9.html#form1-1c\" data-toolbar=\"-mbrBtnMove\">Ask for a Qoute</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1149,7 +1149,7 @@
           },
           "title": "SS",
           "text": "Suitable for washrooms, small rooms and offices.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\">Ask for a Qoute</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page10.html#form1-1f\" data-toolbar=\"-mbrBtnMove\">Ask for a Qoute</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
