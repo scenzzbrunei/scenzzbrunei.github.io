@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Scenzz",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 74,
+    "uniqCompNum": 70,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
